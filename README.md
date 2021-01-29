@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### Connect with me ✉
+### Connect with me ✉
 [![Instagram Badge](https://img.shields.io/badge/-chitransh.jainn-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chitransh.jainn/)](https://www.instagram.com/chitransh.jain/)
 [![Gmail Badge](https://img.shields.io/badge/-work.chitransh-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.chitransh@gmail.com)](mailto:work.chitransh@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ChitranshJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chitransh-jain-31b0771b0/)](https://www.linkedin.com/in/chitransh-jain-31b0771b0/)
