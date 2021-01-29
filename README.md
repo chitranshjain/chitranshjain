@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=chitransh.jainn&color=green)
+![](https://komarev.com/ghpvc/?username=chitranshjain&color=green)
 
 ### Hi there 👋
 I am Chitransh Jain. A MERN & Flutter developer from India.
