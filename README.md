@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshjain&layout=compact&theme=radical)
 
 #### **Connect with me**
-[![Instagram Badge](https://img.shields.io/badge/-chitransh.jainn-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chitransh.jainn/)](https://www.instagram.com/fake_atishay/)
+[![Instagram Badge](https://img.shields.io/badge/-chitransh.jainn-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chitransh.jainn/)](https://www.instagram.com/chitransh.jain/)
 [![Gmail Badge](https://img.shields.io/badge/-work.chitransh-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.chitransh@gmail.com)](mailto:work.chitransh@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ChitranshJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chitransh-jain-31b0771b0/)](https://www.linkedin.com/in/chitransh-jain-31b0771b0/)
 <br />
