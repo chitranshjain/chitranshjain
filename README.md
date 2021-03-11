@@ -3,7 +3,7 @@
 ### Hi there 👋
 I am Chitransh Jain. A MERN & Flutter developer from India.
 
-- 🔭 I’m currently working on Firebase integration in React.js
+- 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning MERN Development
 - 📫 How to reach me: work.chitransh@gmail.com
 
