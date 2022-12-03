@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=chitranshjain&color=green)
 
 ### Hi there 👋
-I am Chitransh Jain. A MERN Stack Developer from India.
+I am Chitransh Jain. A Full Stack Developer. 
 
 - 🔭 I’m currently working on Full Stack Projects
 - 🌱 I’m currently learning TypeScript.
