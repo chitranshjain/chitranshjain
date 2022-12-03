@@ -4,7 +4,7 @@
 I am Chitransh Jain. A MERN Stack Developer from India.
 
 - 🔭 I’m currently working on Full Stack Projects
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning TypeScript.
 - 📫 How to reach me: work.chitransh@gmail.com
 
 <!--
