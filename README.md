@@ -4,7 +4,7 @@
 I am Chitransh Jain. A Full Stack Developer. 
 
 - 🔭 I’m currently working on Full Stack Projects
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning AWS, Docker.
 - 📫 How to reach me: work.chitransh@gmail.com
 
 <!--
